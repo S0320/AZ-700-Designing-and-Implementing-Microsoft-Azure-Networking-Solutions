@@ -36,7 +36,7 @@
       }
     },
   "variables": {
-    "virtualNetworkName": "ManufacturingVnet",
+    "virtualNetworkName": "ManufacturingVnetSaya",
     "nsgName1": "ManufacturingVM-nsg",
     "PIPName1": "ManufacturingVM-ip",
     "subnetName": "ManufacturingSystemSubnet",
